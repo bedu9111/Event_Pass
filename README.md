@@ -99,8 +99,4 @@ npm test
 
 For a manual demo: create student and organiser accounts, publish an event, register as the student, download the QR pass, then scan it as the organiser. Camera scanning needs localhost or HTTPS and browser camera permission. Cloudinary upload and Gmail delivery require valid account credentials.
 
-## Resume description
-
-“Built a full-stack campus event platform with React, Express, and MongoDB, including role-based event management, signed QR entry passes, attendance tracking, Cloudinary uploads, and CSV reporting.”
-
-Keep the original project's attribution and describe your own changes accurately when presenting a fork. No usage or performance metrics are claimed without measurement.
+##Created By : Bedanand Kumar Sah
